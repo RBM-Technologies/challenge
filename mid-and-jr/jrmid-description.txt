@@ -1,0 +1,36 @@
+Hello! Thanks for your interest in the softare engineering position at One Door.
+
+As the next step in our process, we ask all candidates to complete a coding challenge at home.  We, at One Door, are a very practical team and this extends to the way that we work with you to find out if this team is a great fit. We want you to come away with a solid understanding of the work that our engineers do on a daily basis and what it is like to work on our team.
+
+So instead of subjecting you to a live-coding interview or whiteboard session with someone looking over your shoulder, we provide a take-home assignment that is meant to be completed in 60-90 minutes of dedicated developer time. We want to be respectful of your time, while giving you a chance to demonstrate your coding skills.
+
+Guidelines:
+
+Our preference for language is in this order: Ruby, Python, Javascript, Java; however you should use the one from these four that you feel is your strongest.
+
+You'll be evaluated on your code quality and the accuracy of your solution. For us, code quality is primarily about readability, so don't feel the need to add unit tests unless you want to.
+
+If your code is of sufficient quality, you'll be scheduled for a technical interview with some of our engineers, where you'll be asked to explain your solution.
+
+The format of your submission should be a zip archive containing two files: your code and results.txt with your output.
+
+The Challenge:
+
+You've been tasked to work on our Merchandising Categories feature. Merchandising Categories are similar to the product categories you'd see on any ecommerce store, except in our app they're used for categorizing products in a physical store. One of our clients has hundreds of categories and has asked for information about them.
+
+An example category structure might be "Pets > Pet Food > Dog Food > Organic > Bulk Dry Food", where "Bulk Dry Food" is the 5th-level category. The data in the attached JSON file is for testing purposes and simply differentiates subcategories using a letter+number (‘A1’, ‘C5’) combination to denote the level and count of items at that level.
+
+Using the language of your choice, please answer the following questions based on the supplied JSON file:
+
+1. How many total categories are there?
+
+2. How many 5th-level categories are there?
+
+3. How many total products are there?
+
+4. How many total products are there in 5th-level categories?
+
+5. Which top-level category, including its children, contains the most products?
+
+6. Which top-level category, including its children, contains the fewest products?
+
